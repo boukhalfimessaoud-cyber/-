@@ -1,2 +1,0 @@
-# -
-ghardaia-eco-eval
